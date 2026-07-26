@@ -5,9 +5,9 @@
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
-![Suryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsuryaanshx&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Suryansh's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=xsuryaanshx&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![Suryansh's GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=xsuryaanshx&theme=dark&hide_border=false)<br/>
-![Suryansh's Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xsuryaanshx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Suryansh's Most Used Programming Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xsuryaanshx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![Suryansh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xsuryaanshx&theme=merko&no-frame=false&no-bg=true&margin-w=4)
